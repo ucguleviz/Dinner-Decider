@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dinner Decider</string>
+    <string name="iv_logo">logo off the app</string>
+    <string name="tv_default_value">Hamburger</string>
+    <string name="et_hint">Add new food</string>
+    <string name="bt_addFood">ADD FOOD</string>
+    <string name="bt_decide">DECIDE</string>
+</resources>
